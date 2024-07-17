@@ -1,7 +1,7 @@
 # JavaScript-Rock-Paper-Scissors
 this application was built from JS, it app ultilized how to use window object, creating object, looping, etc...
 
-
+https://khoiphan-9194.github.io/JavaScript-Rock-Paper-Scissor/
 ## Instructions
 
 The completed application should meet the following criteria:
